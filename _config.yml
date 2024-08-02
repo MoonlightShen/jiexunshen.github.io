@@ -80,11 +80,11 @@ analytics:
 # Site Author
 author:
   name             : #"<center>"CWisdomJ/cwisdomj.github.io"<br/>(陈婉君)</center>"
-  avatar           : "profile.png"
+  avatar           : "touxiang.png"
   bio              : "Lecturer @ <a style='color: black;' href='http://www.hnust.edu.cn/'>HNUST</a>"
   location         : "Xiangtan, CN"
   employer         :
-  googlescholar    : "https://scholar.google.com.hk/citations?user=dGw4VPoAAAAJ&hl=en"
+  googlescholar    : 
   email            : "cwisdomjer@gmail.com"
   researchgate     : 
   dblp             : 
