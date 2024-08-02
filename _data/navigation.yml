@@ -2,9 +2,7 @@
 main:
   - title: "Contact"
     url: /contact/
-    - title: "Teaching"
-      url: /teaching/  
-
+    
   # - title: "Students"
   #   url: /students/  
 
