@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Introduction
-Hello, everyone! My name is **Wanjun Chen**, female, member of Communist Party of China, Shaoyang, Hunan Province, an undergraduate at the School of Computer Science and Engineering, Hunan University of Science and Technology, majoring in big data. During my undergraduate study, I worked hard and ranked first in the comprehensive examination for two consecutive years. My GPA of degree courses was 3.96, my professional performance ranked first, and I won many honorary awards such as "National Scholarship".I also learned algorithm knowledge in ACM assembled team, participated in discipline competitions, and won a number of national and provincial awards. At the same time, I am also actively involved in academic research and have published an academic paper. In May this year, I went to Tianjin to participate in the offline academic conference and made an on-site English report. I believe that under the guidance of the school, college and teachers, as well as my efforts and persistence, I will have a bright future. I am very glad that you can patiently read my relevant information, thank you!💖
+
+> Hello, everyone! My name is **Wanjun Chen**, female, member of Communist Party of China, Shaoyang, Hunan Province, an undergraduate at the School of Computer Science and Engineering, Hunan University of Science and Technology, majoring in big data. During my undergraduate study, I worked hard and ranked first in the comprehensive examination for two consecutive years. My GPA of degree courses was 3.96, my professional performance ranked first, and I won many honorary awards such as "National Scholarship".I also learned algorithm knowledge in ACM assembled team, participated in discipline competitions, and won a number of national and provincial awards. At the same time, I am also actively involved in academic research and have published an academic paper. In May this year, I went to Tianjin to participate in the offline academic conference and made an on-site English report. I believe that under the guidance of the school, college and teachers, as well as my efforts and persistence, I will have a bright future. I am very glad that you can patiently read my relevant information, thank you!💖
 
 # Grades
 + GPA: 3.83/4.0 (**Rank1**) 
@@ -64,7 +64,7 @@ Hello, everyone! My name is **Wanjun Chen**, female, member of Communist Party o
 + 2024-至今，任本科生第六党支部支部副书记
 
 # Acknowledgments
-I am very grateful to the school, college, teachers, seniors and my friends for their help and encouragement, and thank my family for their love for me. I wouldn't be here without you.
+> I am very grateful to the school, college, teachers, seniors and my friends for their help and encouragement, and thank my family for their love for me. I wouldn't be here without you.
 
 
 
