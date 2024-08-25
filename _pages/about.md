@@ -10,7 +10,7 @@ redirect_from:
 > Hello, everyone! My name is **Wanjun Chen**, female, member of Communist Party of China, Shaoyang, Hunan Province, an undergraduate at the School of Computer Science and Engineering, Hunan University of Science and Technology, majoring in big data. During my undergraduate study, I worked hard and ranked first in the comprehensive examination for two consecutive years. My GPA of degree courses was 3.96, my professional performance ranked first, and I won many honorary awards such as "National Scholarship".I also learned algorithm knowledge in ACM assembled team, participated in discipline competitions, and won a number of national and provincial awards. At the same time, I am also actively involved in academic research and have published an academic paper. In May this year, I went to Tianjin to participate in the offline academic conference and made an on-site English report. I believe that under the guidance of the school, college and teachers, as well as my efforts and persistence, I will have a bright future. I am very glad that you can patiently read my relevant information, thank you!💖
 
 # Grades
-+ GPA: 3.83/4.0 (**Rank1**) 
++ GPA: 3.84/4.0 (**Rank1**) 
 + Degree Course GPA: 3.96/4.0 (**Rank1**)
 
 # Publications
@@ -41,7 +41,7 @@ redirect_from:
 
 # Credit
 + 2022.12，**国家励志奖学金（国家级）**、校级一等综合奖学金、校三好学生
-+ 2023.05，校优秀共青团干部
++ 2023.05，校优秀共青团员
 + 2023.12，**国家奖学金（国家级）**
 + 2023.12，校级一等综合奖学金、竞赛类专项奖学金、校三好学生
 + 2024.05，校优秀共青团干部
