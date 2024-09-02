@@ -18,9 +18,8 @@ redirect_from:
 + Jiayan Xiang, **Wanjun Chen**, Yang Wang, Bowen Liang, Zihao Liu, Guosheng Kang. Interactive Web API Recommendation for Mashup Development based on Light Neural Graph Collaborative Filtering. International Conference on Computer Supported Cooperative Work in Design. IEEE Computer Society, pp. 1926-1931, 2023. (CCF Rank C)
 + Jiexun Shen, Dongfan Li, **Wanjun Chen**, Yong Xiao, Guosheng Kang, Jianxun Liu, Buqing Cao. Multi-view Hypergraph-based Self-supervised Learning Model for Web API Recommendation. International Symposium on Parallel and Distributed Processing with Applications. IEEE Computer Society, Accepted, 2023. (CCF Rank C)
 + Yang Wang, Jiayan Xiang, Hangyu Cheng, **Wanjun Chen**, Yong Xiao, Guosheng Kang. Towards Dynamic Evolutionary Analysis of ProgrammableWeb for API-Mashup Ecosystem. International Conference on Computer Supported Cooperative Work in Design. IEEE Computer Society, pp. 1716-1721, 2023. (CCF Rank C)
-
-+ 2023年大学生创新创业训练计划项目，面向复杂性状的多基因评分预测方法研究，省级（项目编号：S202310534058）
-+ 2024年大学生创新创业训练计划项目，基于对比学习和联合训练的Web服务推荐方法研究，省级（项目编号：S202410534003）
++ 2023年湖南省大学生创新创业训练计划项目，面向复杂性状的多基因评分预测方法研究（项目编号：S202310534058）
++ 2024年湖南省大学生创新创业训练计划项目，基于对比学习和联合训练的Web服务推荐方法研究（项目编号：S202410534003）
 
 # Projects
 **工业互联网业务流程智能综合建模语言**（2023.02-2023.08）
